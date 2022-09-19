@@ -1,5 +1,5 @@
 # PhardiApp
-A project that enables easy access to healthcare. 
+A project that enables easy access to healthcare. ALO
 
 Features:
 1) Text-Based Diagnosis
