@@ -1,5 +1,5 @@
 # PhardiApp
-A project that enables easy access to healthcare. Zmangus
+A project that enables easy access to healthcare. 
 
 Features:
 1) Text-Based Diagnosis
